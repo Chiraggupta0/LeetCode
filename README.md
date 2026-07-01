@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Chiraggupta0/LeetCode/tree/master/0994-rotting-oranges) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chiraggupta0/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
