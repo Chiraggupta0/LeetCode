@@ -1,26 +1,30 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if (numRows == 1 || s.length() <= numRows)
-            return s;
-
-        StringBuilder[] rows = new StringBuilder[numRows];
-        for (int i = 0; i < numRows; i++)
-            rows[i] = new StringBuilder();
-
-        int currRow = 0;
-        boolean goingDown = false;
-
-        for (char c : s.toCharArray()) {
-            rows[currRow].append(c);
-            if (currRow == 0 || currRow == numRows - 1)
-                goingDown = !goingDown;
-            currRow += goingDown ? 1 : -1;
+        int n = s.length();
+        String[] sb = new String[numRows];
+        for(int i=0;i<numRows;i++)
+        {
+            sb[i] = "";
         }
-
-        StringBuilder result = new StringBuilder();
-        for (StringBuilder row : rows)
-            result.append(row);
-
-        return result.toString();
+        int i=0;
+        while(i<n)
+        {
+            for(int idx=0;idx<numRows && i<n ;idx++)
+            {
+                sb[idx]+= s.charAt(i);
+                i++;
+            }
+            for(int idx=numRows-2;idx>0 && i<n ;idx--)
+            {
+                sb[idx] +=s.charAt(i);
+                i++;
+            }
+        }
+        String ans="";
+        for(String st:sb)
+        {
+            ans+=st;
+        }
+        return ans;
     }
 }
