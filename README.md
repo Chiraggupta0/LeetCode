@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chiraggupta0/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chiraggupta0/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chiraggupta0/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiraggupta0/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chiraggupta0/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chiraggupta0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Chiraggupta0/LeetCode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
