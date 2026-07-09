@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Chiraggupta0/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chiraggupta0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Chiraggupta0/LeetCode/tree/master/0509-fibonacci-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chiraggupta0/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chiraggupta0/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Chiraggupta0/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chiraggupta0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Chiraggupta0/LeetCode/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chiraggupta0/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Chiraggupta0/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
