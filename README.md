@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chiraggupta0/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
