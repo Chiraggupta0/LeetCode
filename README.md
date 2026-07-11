@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chiraggupta0/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
