@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
+| [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Chiraggupta0/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chiraggupta0/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -143,16 +146,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiraggupta0/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
