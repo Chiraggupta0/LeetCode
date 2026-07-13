@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Chiraggupta0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Chiraggupta0/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Chiraggupta0/LeetCode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Chiraggupta0/LeetCode/tree/master/1143-longest-common-subsequence) |
