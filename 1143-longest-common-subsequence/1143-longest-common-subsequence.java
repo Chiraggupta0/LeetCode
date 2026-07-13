@@ -54,11 +54,35 @@ class Solution {
         //     func2(text1, 0, new StringBuilder());
         // }
         // return max;
-        int[][]dp = new int[text1.length()][text2.length()];
-        for(int i=0;i<text1.length();i++)
+
+
+
+        
+        int[][]dp = new int[text1.length()+1][text2.length()+1];
+        // for(int i=0;i<text1.length();i++)
+        // {
+        //     Arrays.fill(dp[i],-1);
+        // }
+        // return rec(text1,text2,0,0,dp);
+
+        // dp[text1.length()-1][text2.length()-1] = 0;
+        for(int i=text1.length()-1;i>=0;i--)
         {
-            Arrays.fill(dp[i],-1);
+            for(int j=text2.length()-1;j>=0;j--)
+            {
+                if(text1.charAt(i) == text2.charAt(j))
+                {
+                    dp[i][j] = 1+dp[i+1][j+1];
+                }
+                else
+                {
+                    dp[i][j]=Math.max(dp[i+1][j],dp[i][j+1]);
+                }
+                
+            }
         }
-        return rec(text1,text2,0,0,dp);
+        return dp[0][0];
+
+
     }
 }
