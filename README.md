@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Chiraggupta0/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Chiraggupta0/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chiraggupta0/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Chiraggupta0/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chiraggupta0/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chiraggupta0/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Chiraggupta0/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Chiraggupta0/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chiraggupta0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Chiraggupta0/LeetCode/tree/master/0509-fibonacci-number) |
