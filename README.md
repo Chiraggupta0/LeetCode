@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Chiraggupta0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chiraggupta0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Chiraggupta0/LeetCode/tree/master/0198-house-robber) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Chiraggupta0/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Chiraggupta0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chiraggupta0/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chiraggupta0/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Chiraggupta0/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Chiraggupta0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Chiraggupta0/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiraggupta0/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
