@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Chiraggupta0/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Chiraggupta0/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Chiraggupta0/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Chiraggupta0/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Chiraggupta0/LeetCode/tree/master/0290-word-pattern) |
 | [1143-longest-common-subsequence](https://github.com/Chiraggupta0/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiraggupta0/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Chiraggupta0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Chiraggupta0/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Chiraggupta0/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Chiraggupta0/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Chiraggupta0/LeetCode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chiraggupta0/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
