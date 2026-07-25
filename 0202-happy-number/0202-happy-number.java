@@ -11,13 +11,12 @@ class Solution {
         return sm;
     }
     public boolean isHappy(int n) {
-        HashSet<Integer> hash = new HashSet<>();
-        while(!hash.contains(n))
-        {
-            hash.add(n);
-            n = sum(n);
-            if(n == 1) return true;
-        }
-        return false;
+        int slow = n;
+        int fast = n;
+        do{
+            slow=sum(slow);
+            fast = sum(sum(fast));
+        }while(slow!=fast);
+        return slow == 1;
     }
 }
