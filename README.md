@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Chiraggupta0/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chiraggupta0/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Chiraggupta0/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Chiraggupta0/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Chiraggupta0/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
