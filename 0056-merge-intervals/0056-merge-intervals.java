@@ -19,6 +19,10 @@ class Solution {
             }
             ans.add(new int[]{start, end});
         }
-        return ans.toArray(new int[ans.size()][]);
+        int[][] result = new int[ans.size()][];
+        for (int i = 0;i<ans.size();i++) {
+            result[i] = ans.get(i);
+        }
+        return result;
     }
 }
