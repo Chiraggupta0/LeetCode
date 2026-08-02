@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Chiraggupta0/LeetCode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Chiraggupta0/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chiraggupta0/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Chiraggupta0/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Chiraggupta0/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Chiraggupta0/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Chiraggupta0/LeetCode/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Chiraggupta0/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Chiraggupta0/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Chiraggupta0/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Chiraggupta0/LeetCode/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Chiraggupta0/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Chiraggupta0/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Chiraggupta0/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Chiraggupta0/LeetCode/tree/master/0994-rotting-oranges) |
