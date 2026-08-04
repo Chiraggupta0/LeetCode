@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chiraggupta0/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chiraggupta0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Chiraggupta0/LeetCode/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chiraggupta0/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Chiraggupta0/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Chiraggupta0/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Chiraggupta0/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Chiraggupta0/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Chiraggupta0/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chiraggupta0/LeetCode/tree/master/0242-valid-anagram) |
