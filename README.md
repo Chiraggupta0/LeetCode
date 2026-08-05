@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chiraggupta0/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Chiraggupta0/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Chiraggupta0/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Chiraggupta0/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Chiraggupta0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Chiraggupta0/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chiraggupta0/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chiraggupta0/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -311,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chiraggupta0/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
