@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Chiraggupta0/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Chiraggupta0/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Chiraggupta0/LeetCode/tree/master/0733-flood-fill) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Chiraggupta0/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chiraggupta0/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Chiraggupta0/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Chiraggupta0/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Chiraggupta0/LeetCode/tree/master/0463-island-perimeter) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Chiraggupta0/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Chiraggupta0/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Chiraggupta0/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Chiraggupta0/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chiraggupta0/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Chiraggupta0/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Chiraggupta0/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Chiraggupta0/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
